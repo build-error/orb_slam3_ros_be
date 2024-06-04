@@ -1,0 +1,3 @@
+datasets/*
+catkin_ws/src/orb_slam3_ros/orb_slam3/Thirdparty
+catkin_ws/build/*

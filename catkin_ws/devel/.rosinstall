@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/build-error-ubuntu/orb_slam3_ros_be/catkin_ws/devel/setup.sh
